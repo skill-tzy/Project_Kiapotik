@@ -4,7 +4,7 @@ PROYEK APLIKASI PENJUALAN OBAT APOTIK BERBASIS WEBSITE<br>
 Download [PDF laporan Project](https://github.com/user-attachments/files/24179655/MUHAMMAD.ADZKIA_UTSWEB.docx)<br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ae7ec5f0-546a-4ed4-9ef8-927331a9d75b">
+  <img src="https://github.com/user-attachments/assets/c6f30b14-53cb-43e6-8b56-8a58a8977d1d"  width="350">
 </div>
 
 ## KATA PENGANTAR
